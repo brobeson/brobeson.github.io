@@ -1,3 +1,9 @@
+## Publications
+
+1. Brendan Robeson, Mohammadreza Javanmardi, and Xiaojun Qi</br>
+   [Object Tracking Using Matching Filters](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cvi2.12040)</br>
+   IET Computer Vision, 2021
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brobeson/brobeson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
