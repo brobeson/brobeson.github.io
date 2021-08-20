@@ -15,6 +15,6 @@ title: BRobeson
 
 ## Publications
 
-1. [Object Tracking Using Matching Filters](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cvi2.12040)
-   Brendan Robeson, Mohammadreza Javanmardi, and Xiaojun Qi
+1. [Object Tracking Using Matching Filters](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cvi2.12040)<br/>
+   Brendan Robeson, Mohammadreza Javanmardi, and Xiaojun Qi<br/>
    IET Computer Vision, 2021
