@@ -10,7 +10,10 @@ title: BRobeson
 
 ## Experience
 
-- 2008--2013 Software Engineer at Rockwell Collins
+- 2008--2013 Software Engineer at Rockwell Collins<br>
+  I worked on the EP2 software which powers the EP-8, EP-80, and EP-8000 image generators.
+  I was the lead engineer for the environment component.
+  This component is responsible for animating and rendering environment effects such as the sky, clouds, sun, and weather.
 - 2013--Present Software Engineer at Space Dynamics Laboratory
 
 ## Publications
