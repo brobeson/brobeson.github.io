@@ -1,4 +1,6 @@
-# Curriculum Vitae
+---
+title: BRobeson
+---
 
 ## Education
 
