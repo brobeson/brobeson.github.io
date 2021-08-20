@@ -22,7 +22,6 @@ title: BRobeson
 
 - [cmake-tools](https://github.com/brobeson/cmake-tools)<br/>
   This is a collection of CMake modules that I use often in my C++ projects.<br/>
-  [Documentation](https://cmake-tools.readthedocs.io/en/latest/)
 - [supernovas](https://github.com/brobeson/supernovas)<br/>
   This is a C++ implementation of the United States Naval Observatory's NOVAS astronomy algorithms.
 
