@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 title: brobeson
-show_downloads: true
 defaults:
   - scope:
       path: ""
