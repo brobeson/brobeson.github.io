@@ -1,0 +1,22 @@
+name: Render PDF
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  latex:
+    name: Render PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dante-ev/latex-action@latest
+        with:
+          root_file: resume.tex
+          working_directory: .
+      - uses: actions/upload-artifact@v3
+        with:
+          name: PDF
+          path: resume.pdf
